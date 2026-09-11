@@ -20,8 +20,11 @@ The project is built with transparency and real-world lending logic in mind, mak
 ---
 
 maxbartoszek : trained the machine-learning model, worked on the streamlit website, tuned decision thresholds
+
 neilhaoyuan : model validation, optimizing model output
+
 thatdudePranay : optimizing model output, tuned decision thresholds
+
 avaansh07-ux: worked on the streamlit website
 
 ## What the project does
