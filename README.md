@@ -29,6 +29,8 @@ The project is built with transparency and real-world lending logic in mind, mak
 
 **avaansh07-ux** : worked on the streamlit website
 
+*Forked from neilhaoyuan's profile as it's where we committed everything
+
 ---
 
 ## What the project does
